@@ -1,0 +1,26 @@
+{
+  "name": "mean_seed",
+  "version": "1.0.0",
+  "description": "A mean based app to be a starting point of any larger project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "repository": "https://github.com/9690suman/meen_seed.git",
+  "author": "sarnendu.mukherjee@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.8",
+    "morgan": "^1.6.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
